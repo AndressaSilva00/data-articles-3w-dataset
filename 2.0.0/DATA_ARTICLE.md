@@ -69,7 +69,10 @@ The following step-by-step is suggested:
 
 > 💡 Titles may not exceed 110 characters, including whitespaces. They should avoid the use of acronyms, abbreviations, and unnecessary punctuation where possible. Colons and parentheses are not permitted.
 
-3W Dataset 2.0.0: a realistic and public dataset with rare undesirable real events in oil wells
+3W Dataset 2.0.0 a realistic and public dataset with rare undesirable real events in oil wells
+
+
+_Note: The title was revised to comply with formatting guidelines that prohibit the use of colons, parentheses, and unnecessary abbreviations.
 
 _Note: the use of the acronym **3W** in the title is intentional and beneficial. Its meaning will be explained in the Background & Summary Section._
 
@@ -483,7 +486,7 @@ The authors would like to thank Petróleo Brasileiro S.A. (Petrobras) for provid
 * POLO - Research Laboratories for Emerging Technologies in Cooling and Thermophysics, Department of Mechanical Engineering, Federal University of Santa Catarina (UFSC), Florianópolis, Brazil.
     * Guiherme Fidelis Peixer
 * Laboratório de Computação Científica e Visualização (LCCV/UFAL), Maceió, Brazil
-    * Igor de Melo Nery Oliveira, Lucas Gouveia Omena Lopes
+    * Andressa Celestino Araujo da Silva, Igor de Melo Nery Oliveir & Lucas Gouveia Omena Lopes
 
 * ...
 * Affiliation
