@@ -85,7 +85,7 @@ In the oil industry, undesirable events in oil wells can cause economic damage, 
 
 > 👍 Excellent references and final review.
 
-Undesirable events cause different types of damage to the oil industry, including economic damage, environmental accidents, and human casualties [[1]](#1).
+Undesirable events cause different types of damage to the oil industry, including economic damage, environmental accidents, and human casualties [[1]](#1). In this case, the use of sensor-based data monitoring is a common practice, aiming to identify possible anomalies in structures and proactively prevent accidents. A relevant example is presented by [[32]](#32), who reports a case that occurred at the Exploration and Production Operations Unit of Petrobras in Espírito Santo (UO-ES). In that study, it is estimated that, in 2016, production losses reached 1,514,000 barrels due to anomalies in offshore wells operated by natural lift systems. Considering this estimate as an annual average and adopting a price of $50 per barrel, the financial impact of these anomalies on UO-ES amounts to approximately $75.7 million per year.
 
 Abnormal Event Management (AEM) refers to the systematic detection, diagnosis, and mitigation of unexpected or irregular events within complex industrial systems [[33]](#33). In the oil industry, where operational safety, environmental protection, and economic performance are tightly coupled, AEM plays a crucial role in minimizing the impact of undesirable events. The integration of Artificial Intelligence (AI) and Machine Learning (ML) based solutions into AEM have shown promise for Early Detection [[2]](#2) of undesirable events in different industries [[3]](#3). By analyzing vast streams of operational data, such as pressure, temperature, vibration, and flow rates, algorithms can uncover subtle patterns that precede abnormal conditions, allowing early intervention and preventive maintenance strategies [[34]](#34). A requirement that is recognized as essential in this type of approach is the use of high-quality datasets [[4]](#4) [[38]](#38).
 
@@ -495,7 +495,7 @@ _Note: when you propose contributions through [Pull Request](https://docs.github
 
 > 💡 The 'Author contributions' statement should briefly describe each author's contribution to the work.
 
-R.V. lead this project, prepared this manuscript drafts version, and incorporated contributions from all co-authors to produce the submitted and published versions. C.M. added content, and reviewed texts. F.V. reviewed texts. G.P. added content, created figures, provided references, and reviewed texts. I.O. added content and provided references. J.A. merged contributions, and reviewed texts. L.L. provided references, and reviewed texts. M.F. provided references, and reviewed texts. P.C. added content, and reviewed texts. A.B did it. C.D did that.
+R.V. lead this project, prepared this manuscript drafts version, and incorporated contributions from all co-authors to produce the submitted and published versions. C.M. added content, and reviewed texts. F.V. reviewed texts. G.P. added content, created figures, provided references, and reviewed texts. I.O. added content and provided references. J.A. merged contributions, and reviewed texts. L.L. provided references, and reviewed texts. M.F. provided references, and reviewed texts. P.C. added content, and reviewed texts. A.B did it. C.D did that. A.S.added content, provided references and title revised.
 
 _Note: when you propose contributions through [Pull Request](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), add your initials and summarize your contributions in the list above, which cannot be subdivided._
 
@@ -567,3 +567,5 @@ Apache Software Foundation (2004). Apache License Version 2.0. https://www.apach
 Pan, S.J., Yang, Q. (2010). A Survey on Transfer Learning. IEEE Transactions on Knowledge and Data Engineering, 22:10, pp. 1345-1359. https://doi.org/10.1109/TKDE.2009.191.
 #### 102
 Iman, M., Arabnia, H. R., Rasheed, K. (2023). A Review of Deep Transfer Learning and Recent Advancements. Technologies, 11(2): 40. https://doi.org/10.3390/technologies11020040.
+#### 32
+Vaz Vargas, R. E. (2019). Base de dados e benchmarks para prognóstico de anomalias em sistemas de elevação de petróleo. Doctoral thesis, Universidade Federal do Espírito Santo.
